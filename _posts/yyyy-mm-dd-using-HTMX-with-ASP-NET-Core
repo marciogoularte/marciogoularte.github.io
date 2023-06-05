@@ -1,6 +1,7 @@
 HTMX is a powerful library that provides enhanced functionality, such as AJAX and DOM updates, to your web pages. Unlike traditional JavaScript coding, HTMX offers a simpler approach by allowing you to incorporate these features through specific attributes within your HTML markup.
 
 To illustrate this concept, let's examine the following example taken from the HTMX website:
+
 ```html
 <button hx-post="/clicked" hx-swap="outerHTML">
     Click Me
